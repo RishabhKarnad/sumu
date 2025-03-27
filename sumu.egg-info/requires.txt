@@ -1,0 +1,6 @@
+numpy
+scipy>=1.6
+psutil
+
+[plotext]
+plotext==4.1.3
